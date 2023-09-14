@@ -20,7 +20,7 @@
 - Demo vedio
 - https://github.com/seenimd/calculator/assets/144776468/50da8b0d-edc1-4f1c-bef1-1815987ffbc4
 - LIght theme
-- ![Screenshot_20230912-134537](https://github.com/seenimd/calculator/assets/144776468/64298ea6-fe72-4992-9a97-b9bf843294b5)
+- ![Screenshot_20230912-134537](https://github.com/seenimd/calculator/assets/144776468/64298ea6-fe72-4992-9a97-b9bf843294b5){width=200px}
 
 - dark theme
 -![Screenshot_20230912-134543](https://github.com/seenimd/calculator/assets/144776468/771395d1-8cfe-454e-8e8b-ca1414c0fbff)
